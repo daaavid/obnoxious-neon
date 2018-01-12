@@ -1,0 +1,21 @@
+{
+  "name": "Obnoxious Neon",
+  "displayName": "Obnoxious Neon",
+  "description": "An obnoxious theme",
+  "version": "0.0.1",
+  "publisher": "daaavid",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": ["Themes"],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Obnoxious Neon",
+        "uiTheme": "vs-dark",
+        "path": "themes/obnoxious-neon-theme.json"
+      }
+    ]
+  }
+}
