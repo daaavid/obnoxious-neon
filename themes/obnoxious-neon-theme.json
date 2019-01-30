@@ -75,7 +75,7 @@
     "editor.inactiveSelectionBackground": "#874DF633",
     "editor.wordHighlightBackground": "#EFD3877f",
     "editor.wordHighlightStrongBackground": "#6D6DB57f",
-    "editor.findMatchBackground": "#589FFF",
+    "editor.findMatchBackground": "#FF00007f",
     "editor.findMatchHighlightBackground": "#FF00007f",
     "editor.findRangeHighlightBackground": "#36354B",
     "editor.hoverHighlightBackground": "#505064",
